@@ -1,0 +1,16 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+.ipynb_checkpoints/CHANGELOG-checkpoint.txt
+.ipynb_checkpoints/LICENCE-checkpoint.txt
+.ipynb_checkpoints/README-checkpoint.txt
+.ipynb_checkpoints/setup-checkpoint.py
+Aalmond/__init__.py
+Aalmond.egg-info/PKG-INFO
+Aalmond.egg-info/SOURCES.txt
+Aalmond.egg-info/dependency_links.txt
+Aalmond.egg-info/top_level.txt
+Aalmond/.ipynb_checkpoints/__init__-checkpoint.py
+Aalmond/.ipynb_checkpoints/x__init__x-checkpoint.py
